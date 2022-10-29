@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin-trim: 0;
+}
+
+
+.colntainer{
+    background-color: black;
+    color: white;
+    margin: 0 4rem 0 4rem;
+    padding: 1rem;
+    font-size: x-large;
+    margin-top: -50;
+    
+
+}
+
+.nav{
+ justify-content: space-between;
+ 
+}
+.nav a{
+    text-decoration: none;
+    color:white;
+
+}
+
+.text{
+    text-align: center;
+    margin-top: 10em;
+}
+.fruit{
+    margin-top: 5em;
+    display: flex;
+}
+
+.img1{
+    width:100rem;
+    margin-left: 10em;
+}
+
+.About{
+ text-align: center;
+ margin-left: 20em;
+ margin-right: 5em;
+ margin-top: 10em;
+}
+.six-img{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5em;
+
+}
+.FF{
+    margin-top: 5em;
+    text-align-last: center;
+}
